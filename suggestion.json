@@ -1,0 +1,42 @@
+[
+    {
+        "id": "hel",
+        "name": "hello world",
+        "cost": 70
+    },
+    {
+        "id": "hel",
+        "name": "hello",
+        "cost": 10
+    },
+    {
+        "id": "he",
+        "name": "he",
+        "cost": 10
+    },
+    {
+        "id": "hel",
+        "name": "helm",
+        "cost": 200
+    },
+    {
+        "id": "he",
+        "name": "hey",
+        "cost": 20
+    },
+    {
+        "id": "se",
+        "name": "sea",
+        "cost": 10
+    },
+    {
+        "id": "se",
+        "name": "see",
+        "cost": 10
+    },
+    {
+        "id": "rop",
+        "name": "rope",
+        "cost": 1
+    }
+]
